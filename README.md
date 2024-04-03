@@ -1,3 +1,5 @@
+This is a fork of the mqtt-utilities-unreal plugin for Unreal Engine v5. Unreal Engine v4 is not supported in this fork.
+
 ## If this repo helped you, please consider buying us a cup of coffee:
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8JXUYRFCZMR7G)
